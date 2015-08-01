@@ -1,5 +1,5 @@
 ##
-# Staircase
+# Time Conversion
 # ----------------------------------------------------
 # You are given time in AM/PM format. Convert this
 # into a 24 hour format.
